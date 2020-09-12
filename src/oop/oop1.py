@@ -1,4 +1,4 @@
-class Vehicle():
+class Vehicle:
     # base class
     pass
 
